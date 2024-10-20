@@ -33,7 +33,29 @@
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VinayDattarao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-     
+**`Digital Craftsman (Developer/Video Editor/Creator)`**
+
+I'm a college student passionate about exploring new technologies and web development, I am on a mission to expand my skill set while freelancing as a video editor. I strive to balance my studies with my creative pursuits, aiming to merge my artistic vision with coding proficiency to develop innovative digital projects. By crafting engaging content and solutions, I seek to implement my creative skills alongside my programming abilities, paving the way for a fulfilling career in the digital world.
+
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
+#
+<!--
+<details>
+ <summary><h3>👨‍💻 Vinay's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. And all the while, teaching myself video editing with a dream to make my own film, but that soon got overshadowed by my desire to excel in Web Development.However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my YouTube full-time Career in 2021 due to the college. But that's always bothered me about my journey - abandoning my dream of making videos on Youtube. I have a burning desire to get back on the horse, and fulfill that dream younger me had of making videos and creating content. And in order to do that, I'll be implmementing a few measures to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in the Future .
+-->
+
+
+
 <details open> 
   <summary><h2>📕 Projects of Mine</h2></summary>
 
