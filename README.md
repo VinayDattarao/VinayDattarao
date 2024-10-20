@@ -12,7 +12,8 @@
 <p align="center">
   <a href="https://www.youtube.com/c/SoloNerdYT"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/c/SoloNerdYT"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.ibb.co/TKgYTyN/VIEW.png" alt="VIEW" border="0"></a>
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/SolonerdO"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
