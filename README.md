@@ -24,7 +24,7 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://www.youtube.com/c/SoloNerdYT?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="<a href="https://ibb.co/kJDJSWZ"><img src="https://i.ibb.co/C696HTL/SUB.png" alt="SUB" border="0"></a>"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://i.ibb.co/C696HTL/SUB.png" alt="SUB" border="0"></a>"/></a>
   <a href="https://www.youtube.com/c/SoloNerdYT">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/VinayDattarao?tab=repositories&sort=stargazers">
