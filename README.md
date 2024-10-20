@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/VinayDattarao">
-    <img src="YOUR_IMAGE_LINK_HERE" alt="Vinay Datta" /></a>
+  <a href="https://ibb.co/BgJY4t2"><img src="https://i.ibb.co/WcXRD6v/Untitled-1.png" alt="Vinay Datta" border="0"></a>
 </p>
 
 <p align="center">
