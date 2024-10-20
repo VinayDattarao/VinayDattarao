@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/7YB731P/vinay-datta.png" alt="vinay-datta" border="0">
+  <a href="https://ibb.co/wprBKS0"><img src="https://i.ibb.co/xz8XM1C/Vinay-Datta.png" alt="Vinay-Datta" border="0"></a>
 </p>
 
 <p align="center">
