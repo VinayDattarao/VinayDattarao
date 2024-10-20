@@ -45,13 +45,7 @@ I'm a college student passionate about exploring new technologies and web develo
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-   <style>
-  img {
-    pointer-events: none;
-    user-select: none;
-  }
-</style>
-
+    
 <img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python">
