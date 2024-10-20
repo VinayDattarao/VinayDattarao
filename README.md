@@ -33,7 +33,7 @@
     <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VinayDattarao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-**`Digital Craftsman (Web Developer/Video Editor/Content Creator)`**
+**`Digital Craftsman (Web Developer / Video Editor / Content Creator)`**
 
 I'm a college student passionate about exploring new technologies and web development, I am on a mission to expand my skill set while freelancing as a video editor. I strive to balance my studies with my creative pursuits, aiming to merge my artistic vision with coding proficiency to develop innovative digital projects. By crafting engaging content and solutions, I seek to implement my creative skills alongside my programming abilities, paving the way for a fulfilling career in the digital world.
 
