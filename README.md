@@ -46,9 +46,15 @@ I'm a college student passionate about exploring new technologies and web develo
 
   <p>
     
-<img src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" alt="Python">
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  </a>
 
 <!--
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava">
