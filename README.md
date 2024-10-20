@@ -40,6 +40,9 @@
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
     <a href="https://github.com/VinayDattarao/Html-loginpage">Html - Login Page </a>
+    <a href="https://github.com/VinayDattarao/Html-Card-UI-Design">Html - Card UI Design</a>
+    <a href="https://github.com/VinayDattarao/Python-Projects">Python - MP3 Music Player</a>
+  </p>
     
 </details>
 
