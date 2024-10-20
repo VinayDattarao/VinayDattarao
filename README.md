@@ -27,7 +27,7 @@
   <a href="https://www.youtube.com/c/SoloNerdYT?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://i.ibb.co/C696HTL/SUB.png" alt="SUB" border="0"></a>
   <a href="https://www.youtube.com/c/SoloNerdYT">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
+    <img alt="youtube views" title="YouTube views" src="https://i.ibb.co/TKgYTyN/VIEW.png"/></a> 
   <a href="https://github.com/VinayDattarao?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VinayDattarao?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/VinayDattarao?tab=followers">
