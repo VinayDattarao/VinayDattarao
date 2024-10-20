@@ -1,13 +1,12 @@
-
 <p align="center">
   <a href="https://github.com/VinayDattarao">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Vinay Datta" /></a>
+    <img src="YOUR_IMAGE_LINK_HERE" alt="Vinay Datta" /></a>
 </p>
 
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20and%20part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Python%2C%20C%20Language%2C%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20and%20part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Python%2C%20C%20Language%2C%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
 <!-- Social icons section -->
