@@ -4,15 +4,15 @@
 
 <p align="center">
   <!-- Typing SVG -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20and%20part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Python%2C%20C%20Language%2C%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
+  <a href="https://github.com/VinayDattarao">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20/%20Part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Python%20C%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/c/SoloNerdYT"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="<img src="https://i.ibb.co/xXG2cBt/clipart-youtube-logo-photo-16.png" alt="clipart-youtube-logo-photo-16" border="0">"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/SolonerdO"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
