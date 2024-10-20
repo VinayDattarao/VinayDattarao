@@ -14,7 +14,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/SolonerdO"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vinaydattarao.github.io/My-Resume/" title="Resume"><img width="32px" length="35px" src="https://i.ibb.co/NpL27p0/folder-color-pink-icon-2048x1613-6x1hy8zx.png"/></a>
@@ -40,7 +39,7 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/VinayDattarao/Html-loginpage"><img width="278" alt="flask">Html - Login Page </a>
+    <a href="https://github.com/VinayDattarao/Html-loginpage">Html - Login Page </a>
     
 </details>
 
