@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/SolonerdO"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vinaydattarao.github.io/My-Resume/" title="Resume"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://vinaydattarao.github.io/My-Resume/" title="Resume"><img width="32px" src="https://i.ibb.co/NpL27p0/folder-color-pink-icon-2048x1613-6x1hy8zx.png"/></a>
 </p>
 
 <br/>
