@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20/%20Part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
-<a style="text-align:center" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
+<a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
 
 <!-- Social icons section -->
 <p align="center">
