@@ -8,6 +8,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20/%20Part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
+<a href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing"><h2>Resume</h2></a>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
