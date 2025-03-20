@@ -10,7 +10,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
