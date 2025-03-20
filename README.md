@@ -100,9 +100,7 @@ I'm a college student passionate about exploring new technologies and web develo
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   <p align="left">
-    <a href="https://github.com/VinayDattarao/Html-loginpage">Html - Login Page </a>
-    <br>
-    <a href="https://github.com/VinayDattarao/Html-Card-UI-Design">Html - Card UI Design</a>
+    <a href="https://github.com/VinayDattarao/Employee-Management-System">Employee Management System </a>
     <br>
     <a href="https://github.com/VinayDattarao/Python-Projects">Python - MP3 Music Player</a>
   </p>
