@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20/%20Part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
-<a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
 
 <!-- Social icons section -->
 <p align="center">
@@ -39,6 +38,7 @@
 
 I'm a college student passionate about exploring new technologies and web development, I am on a mission to expand my skill set while freelancing as a video editor. I strive to balance my studies with my creative pursuits, aiming to merge my artistic vision with coding proficiency to develop innovative digital projects. By crafting engaging content and solutions, I seek to implement my creative skills alongside my programming abilities, paving the way for a fulfilling career in the digital world.
 
+<a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
 <div>
   <h2>🛠️ My Favorite Tools</h2>
 
