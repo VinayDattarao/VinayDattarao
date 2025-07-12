@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20developer%20(Applications/Automation);Skills%20in%20Python DSA,Frontend%20,Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18)](https://github.com/VinayDattarao)
 
 
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
