@@ -11,28 +11,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/"><img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/SolonerdO"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://vinaydattarao.github.io/My-Resume/" title="Resume"><img width="32px" src="https://i.ibb.co/NpL27p0/folder-color-pink-icon-2048x1613-6x1hy8zx.png"/></a>
 </p>
 
 <br/>
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/SoloNerdYT?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://i.ibb.co/C696HTL/SUB.png" alt="SUB" border="0"></a>
-  <a href="https://www.youtube.com/c/SoloNerdYT">
-    <img alt="youtube views" title="YouTube views" src="https://i.ibb.co/TKgYTyN/VIEW.png"/></a> 
-  <a href="https://github.com/VinayDattarao?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/VinayDattarao?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/VinayDattarao?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/VinayDattarao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
 
 **`Digital Craftsman (Web Developer / Video Editor / Content Creator)`**
 
