@@ -2,12 +2,9 @@
   <a href="https://ibb.co/wprBKS0"><img src="https://i.ibb.co/xz8XM1C/Vinay-Datta.png" alt="Vinay-Datta" border="0"></a>
 </p>
 
-<p align="center">
+
   <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20developer%20(Applications/Automation);Skills%20in%20Python DSA,Frontend%20,Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18)](https://github.com/VinayDattarao)
-
-
-</p>
 
 
 <!-- Social icons section -->
