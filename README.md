@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/VinayDattarao">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Undergraduate%20/%20Part-time%20video%20editor;Web%20developer%20working%20on%20HTML%2FCSS;Skills%20in%20Adobe%20Premiere%20Pro%2C%20Photoshop&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20developer%20(Applications/Automation);Skills%20in%20Python DSA,Frontend%20,Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" /></a>
 </p>
 
 
