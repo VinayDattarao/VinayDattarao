@@ -5,7 +5,7 @@
 
   <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20(Applications/Automation);Skills%20in%20Python%20DSA,Frontend%20,Automation&font=Fira%20Code&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20(Applications%2FAutomation);Skills%20in%20Python%20DSA%2C%20Frontend%2C%20Automation&font=Fira%20Code&width=1000&height=50&color=f75c7e&pause=1000&size=20" alt="Typing SVG" />
 </p>
 
 
