@@ -4,7 +4,8 @@
 
 
   <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20developer%20(Applications/Automation);Skills%20in%20Python DSA,Frontend%20,Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18)](https://github.com/VinayDattarao)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20developer%20(Applications/Automation);Skills%20in%20Python%20DSA,Frontend%20,Automation&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=18)
+
 
 
 
