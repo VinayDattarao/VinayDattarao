@@ -24,7 +24,7 @@
 <br>
 I'm a college student passionate about Python development and actively learning web development. I’m on a mission to grow my technical skills by building real-world projects and constantly exploring new technologies. I strive to balance academics with hands-on learning, blending logical problem-solving with creative thinking to develop innovative digital solutions. Through consistent practice and a deep interest in programming, I’m shaping a focused and impactful career in the world of tech.
 
-<a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
+<a style="text-align:center;" href="https://drive.google.com/file/d/1LU_mCmEbX4BKf4dpoud7G0kq1E4__E2f/view?usp=sharing">Resume</a>
 <div>
   <h2>🛠️ My Favorite Tools</h2>
 
