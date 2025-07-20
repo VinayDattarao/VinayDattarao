@@ -18,6 +18,7 @@
     <img width="24px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
 </div>
+<br>
 
 
 
