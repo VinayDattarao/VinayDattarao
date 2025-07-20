@@ -12,7 +12,7 @@
 
 
 <!-- Social icons section -->
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
     <img width="20px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
   </a>
