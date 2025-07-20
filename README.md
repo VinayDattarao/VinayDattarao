@@ -5,7 +5,7 @@
 
   <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20(Applications%2FAutomation);Skills%20in%20Python%20DSA,%20Frontend,%20Automation&font=Fira%20Code&center=true&vCenter=true&width=800&height=50&color=f75c7e&pause=1000&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20|%20Web%20Development%20Learner;Building%20Projects%20with%20Python%20and%20Frontend%20Skills;Exploring%20Django,%20Flask%20and%20Modern%20Web%20Technologies&font=Fira%20Code&center=true&vCenter=true&width=800&height=50&color=f75c7e&pause=1000&size=20" alt="Typing SVG" />
 </p>
 
 
@@ -20,9 +20,9 @@
 <br/>
 
 
-**`Digital Craftsman (Web Developer / Video Editor / Content Creator)`**
+**`Python Developer`**
 
-I'm a college student passionate about exploring new technologies and web development, I am on a mission to expand my skill set while freelancing as a video editor. I strive to balance my studies with my creative pursuits, aiming to merge my artistic vision with coding proficiency to develop innovative digital projects. By crafting engaging content and solutions, I seek to implement my creative skills alongside my programming abilities, paving the way for a fulfilling career in the digital world.
+I'm a college student passionate about Python development and actively learning web development. I’m on a mission to grow my technical skills by building real-world projects and constantly exploring new technologies. I strive to balance academics with hands-on learning, blending logical problem-solving with creative thinking to develop innovative digital solutions. Through consistent practice and a deep interest in programming, I’m shaping a focused and impactful career in the world of tech.
 
 <a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
 <div>
