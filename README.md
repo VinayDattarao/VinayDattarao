@@ -16,7 +16,6 @@
   <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
       <img width="24px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
     </a>
   </div>
