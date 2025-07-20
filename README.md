@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="https://ibb.co/wprBKS0"><img src="https://i.ibb.co/xz8XM1C/Vinay-Datta.png" alt="Vinay-Datta" border="0"></a>
-</p>
+<!-- <p align="center"> -->
+<!--  <a href="https://ibb.co/wprBKS0"><img src="https://i.ibb.co/xz8XM1C/Vinay-Datta.png" alt="Vinay-Datta" border="0"></a> -->
+<!-- </p> -->
 
 
   <!-- Typing SVG -->
