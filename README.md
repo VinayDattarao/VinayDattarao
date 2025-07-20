@@ -12,10 +12,19 @@
 
 
 <!-- Social icons section -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20|%20Web%20Development%20Learner;Building%20Projects%20with%20Python%20and%20Frontend%20Skills;Exploring%20Django,%20Flask%20and%20Modern%20Web%20Technologies&font=Fira%20Code&center=true&vCenter=true&width=800&height=50&color=f75c7e&pause=1000&size=20" alt="Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-2a32612a5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
+      <img width="24px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+    </a>
+  </div>
+</p>
 
 
 **`Python Developer`**
+<br>
 I'm a college student passionate about Python development and actively learning web development. I’m on a mission to grow my technical skills by building real-world projects and constantly exploring new technologies. I strive to balance academics with hands-on learning, blending logical problem-solving with creative thinking to develop innovative digital solutions. Through consistent practice and a deep interest in programming, I’m shaping a focused and impactful career in the world of tech.
 
 <a style="text-align:center;" href="https://drive.google.com/file/d/1YSPvIyJ5ptM82XTgk9w3XMARHUyLxsem/view?usp=sharing">Resume</a>
