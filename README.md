@@ -12,14 +12,13 @@
 
 
 <!-- Social icons section -->
-<p align="center">
-  <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <strong><code>Python Developer</code></strong>
-    <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
-      <img width="24px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-    </a>
-  </div>
-</p>
+<div align="left" style="display: flex; align-items: center; gap: 8px;">
+  <strong><code>Python Developer</code></strong>
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
+    <img width="24px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
+</div>
+
 
 
 I'm a college student passionate about Python development and actively learning web development. I’m on a mission to grow my technical skills by building real-world projects and constantly exploring new technologies. I strive to balance academics with hands-on learning, blending logical problem-solving with creative thinking to develop innovative digital solutions. Through consistent practice and a deep interest in programming, I’m shaping a focused and impactful career in the world of tech.
