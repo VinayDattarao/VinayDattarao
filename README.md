@@ -1,98 +1,106 @@
-<!-- <p align="center"> -->
-<!--  <a href="https://ibb.co/wprBKS0"><img src="https://i.ibb.co/xz8XM1C/Vinay-Datta.png" alt="Vinay-Datta" border="0"></a> -->
-<!-- </p> -->
+# 👋 Hi, I'm Vinay Datta Rao Gandra
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20SDIES;Python%20Developer%20%26%20AI%20Enthusiast;Experience%20with%20PyTorch%20and%20Deep%20Learning;Django%20and%20Full%20Stack%20Development;Building%20Real-World%20ML%20Solutions&font=Fira%20Code&center=true&width=800&height=50&color=f75c7e&pause=1000&size=22"/>
+</div>
 
-  <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech%20/%20Undergraduate;Python%20Developer%20|%20Web%20Development%20Learner;Building%20Projects%20with%20Python%20and%20Frontend%20Skills;Exploring%20Django,%20Flask%20and%20Modern%20Web%20Technologies&font=Fira%20Code&center=true&vCenter=true&width=800&height=50&color=f75c7e&pause=1000&size=20" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vinaydattarao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/VinayDattarao">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
+## 🚀 About Me
 
+A passionate Computer Science student and AI enthusiast with a strong foundation in Python development and machine learning. Currently pursuing my B.Tech with a focus on innovative problem-solving through technology. I blend theoretical knowledge with practical implementation, creating solutions that matter.
 
+### 🎓 Education
+- **B.Tech in Computer Science** | Sree Dattha Institute of Engineering and Science (2023-2027)
+  - CGPA: 8.80/10.0
+  - Focus: DevOps, Computer Networks, Operating Systems, DSA
 
-<!-- Social icons section -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
-    <img width="20px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
-  </a>
-</div>
+## 💻 Technical Stack
 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**`Python Developer`**
-<br>
-I'm a college student passionate about Python development and actively learning web development. I’m on a mission to grow my technical skills by building real-world projects and constantly exploring new technologies. I strive to balance academics with hands-on learning, blending logical problem-solving with creative thinking to develop innovative digital solutions. Through consistent practice and a deep interest in programming, I’m shaping a focused and impactful career in the world of tech.
+### Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-<a style="text-align:center;" href="https://drive.google.com/file/d/1LU_mCmEbX4BKf4dpoud7G0kq1E4__E2f/view?usp=sharing">Resume</a>
-<div>
-  <h2>🛠️ My Favorite Tools</h2>
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+## 🏆 Featured Projects
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
+### [SmartPrice AI](https://github.com/VinayDattarao/SmartPrice-AI) 
+A sophisticated e-commerce price prediction platform combining computer vision and NLP
+- 🤖 **Tech**: PyTorch, DeBERTa-v3, EfficientNet-v2
+- 📊 **Scale**: Trained on 75K+ product listings
+- ⚡ **Performance**: ~0.1s inference time on GPU
 
-  <p>
-    
- <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-  </a>
-  
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  </a>
+### [ProctorX](https://github.com/VinayDattarao/ProctorX)
+Advanced online proctoring system with real-time monitoring
+- 👁️ **Features**: Webcam monitoring, screen tracking
+- 🔒 **Security**: Automated integrity checks
+- 🎯 **Integration**: LMS/SSO support
 
-<!--
-<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava">
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-</a>
--->
-  </p>
+### [Ovento](https://github.com/VinayDattarao/Ovento)
+Comprehensive event management platform
+- 📅 **Events**: Hackathons, workshops, quizzes
+- 📊 **Analytics**: Participant tracking & insights
+- 🔄 **Workflow**: Custom registration forms
 
-  <h3>💻 Softwares</h3>
+## 🌟 Experience
 
-  <p>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  </p>
-</div>
+### Django Intern | Perpex Internship Program
+*Aug 2025 – Nov 2025*
+- Building dynamic web applications
+- Backend optimization
+- Full-stack development
 
+### Front End Development Intern | IBM SkillsBuild
+*Aug 2025 - Oct 2025*
+- Responsive web interfaces
+- Industry-standard practices
+- Real-world project experience
 
-  <b>Note:</b> Programming languages which were mentioned above are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 📜 Certifications
+- IBM SkillsBuild – Front End Web Development
+- NPTEL – Programming in Python (Elite)
+- SAP Code Unnati – Python & DSA
+- Microsoft Learn Student Ambassador
+- Deloitte Australia Job Simulation
 
+## 🏆 Achievements
+- Tech Quiz Competition Winner at E-DAM TECH EVENT @ MICROSOFT
+- Student Tech Mentor at Sree Dattha Institute
+- Participant in multiple hackathons including TeckByte 2k25 and Woxsen University
 
-<details>
-  <summary><h3>👨‍💻 Vinay's Coding Journey</h3></summary>
-  <p>
-    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. 
-    And all the while, teaching myself video editing with a dream to make my own film, but that soon got overshadowed by my desire to excel in Web Development.
-    However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my YouTube full-time career 
-    in 2021 due to college. But that's always bothered me about my journey - abandoning my dream of making videos on YouTube.
-  </p>
-  <p>
-    I have a burning desire to get back on the horse, and fulfill that dream younger me had of making videos and creating content. And in order to do that, 
-    I'll be implementing a few measures to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in the future.
-  </p>
-</details>
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VinayDattarao&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
 
-<details open> 
-  <summary><h2>📕 Projects of Mine</h2></summary>
-
-  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
-  <p align="left">
-    <a href="https://github.com/VinayDattarao/Employee-Management-System">Employee Management System </a>
-    <br>
-    <a href="https://github.com/VinayDattarao/Python-Projects">Python - MP3 Music Player</a>
-  </p>
-    
-</details>
-
-
+> "Building the future one commit at a time" 🚀
