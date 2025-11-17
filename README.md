@@ -65,12 +65,6 @@ Advanced online proctoring system with real-time monitoring
 - 🔒 **Security**: Automated integrity checks
 - 🎯 **Integration**: LMS/SSO support
 
-### [Ovento](https://github.com/VinayDattarao/Ovento)
-Comprehensive event management platform
-- 📅 **Events**: Hackathons, workshops, quizzes
-- 📊 **Analytics**: Participant tracking & insights
-- 🔄 **Workflow**: Custom registration forms
-
 ## 🌟 Experience
 
 ### Django Intern | Perpex Internship Program
