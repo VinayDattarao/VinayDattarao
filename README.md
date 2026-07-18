@@ -1,7 +1,7 @@
 # Vinay Datta Rao Gandra
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20SDIES;Python%20Developer%20%26%20AI%20Enthusiast;Experience%20with%20PyTorch%20and%20Deep%20Learning;Django%20and%20Full%20Stack%20Development;Building%20Real-World%20ML%20Solutions&font=Fira%20Code&center=true&width=800&height=50&color=f75c7e&pause=1000&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20at%20SDIES;Python%20Developer%20%26%20Web%20Developer;Experience%20with%20PyTorch%20and%20Deep%20Learning;Django%20and%20Full%20Stack%20Development;Building%20Real-World%20ML%20Solutions&font=Fira%20Code&center=true&width=800&height=50&color=f75c7e&pause=1000&size=22"/>
 </div>
 
 <p align="center">
