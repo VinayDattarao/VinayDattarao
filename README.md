@@ -1,44 +1,40 @@
 # Vinay Datta Rao Gandra
 
-<p align="center">
-  <strong>Computer Science Undergraduate | Software Developer | Open Source Contributor</strong>
-</p>
-
-<p align="center">
-  Building practical software solutions with Python, C, JavaScript, SQL, and modern web technologies.
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Undergraduate%20at%20SDIES;Python%20%26%20C%20Programmer;Full%20Stack%20%26%20Web%20Developer;Open%20Source%20Contributor;Building%20Practical%20Software%20Solutions&font=Fira%20Code&center=true&width=800&height=50&color=f75c7e&pause=1000&size=22" alt="Typing SVG"/>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinay-datta-rao-gandra-2a32612a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vinaydattarao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/VinayDattarao">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://vinay-datta-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://leetcode.com/u/VinayDatta_/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I am a Computer Science undergraduate at **Sree Dattha Institute of Engineering and Science**, pursuing a Bachelor of Engineering with an expected graduation in **2027** and a current **CGPA of 8.70/10.0**.
 
-I enjoy building practical applications that combine programming, problem-solving, databases, and web technologies. My experience includes front-end development, full-stack applications, Python-based data processing, SQL, REST APIs, and DevOps tools.
+I enjoy building practical applications that combine programming, problem-solving, databases, and modern web technologies. My experience includes front-end development, full-stack applications, Python-based data processing, SQL, REST APIs, and DevOps tools.
 
 I am also interested in open-source development and have contributed code to the **Django** project through the open-source contribution process.
 
 ---
 
-## Education
+## 🎓 Education
 
 ### Sree Dattha Institute of Engineering and Science
 
@@ -64,47 +60,48 @@ Hyderabad, India | 2011 – 2021
 
 ---
 
-## Technical Skills
+## 💻 Technical Stack
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Web Development
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data Science & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 
 ### Core Computer Science
 
@@ -118,11 +115,11 @@ Hyderabad, India | 2011 – 2021
 
 ---
 
-## Experience
+## 🏢 Experience
 
-### Front-End Web Development Intern
-**IBM SkillsBuild (AICTE)**  
-August 2025 – October 2025
+### Front-End Web Development Intern | IBM SkillsBuild (AICTE)
+
+**August 2025 – October 2025**
 
 - Built responsive web interfaces using **HTML, CSS, and JavaScript**.
 - Applied front-end development concepts through practical projects.
@@ -131,7 +128,7 @@ August 2025 – October 2025
 
 ---
 
-## Open Source Contributions
+## 🌐 Open Source Contributions
 
 ### Django Open Source Contributions
 
@@ -143,17 +140,17 @@ Participated in the **Google Summer of Code preparation and open-source contribu
 - Contributed changes that were reviewed and merged into the project.
 - Gained experience understanding and modifying an established open-source codebase.
 
-**Contribution:**
+### Contributions
 
 - [Django Pull Request #20974](https://github.com/django/django/pull/20974)
 - [Django Issue #36999](https://code.djangoproject.com/ticket/36999)
 - [Django Issue #36775](https://code.djangoproject.com/ticket/36775)
 
-> Note: Participated in the GSoC process but was not selected as a GSoC contributor.
+> Participated in the GSoC process but was not selected as a GSoC contributor.
 
 ---
 
-## Projects
+## 🏆 Featured Projects
 
 ### International Conference Management System — ICSDI 2026
 
@@ -241,7 +238,7 @@ A Python and MySQL-based application for processing and managing employee datase
 
 ---
 
-## Leadership & Achievements
+## 🌟 Leadership & Achievements
 
 ### Student Tech Mentor
 **Sree Dattha Institute of Engineering and Science**
@@ -262,22 +259,20 @@ A Python and MySQL-based application for processing and managing employee datase
 
 ---
 
-## Certifications & Programs
+## 📜 Certifications & Programs
 
-| Certification / Program | Date |
-|---|---|
-| IBM SkillsBuild — Front-End Web Development | October 2025 |
-| NPTEL — Programming in Python (Elite Certificate) | June 2025 |
-| Deloitte Australia — Job Simulation | July 2025 |
-| Code Unnati (SAP) — Foundational Course | July 2024 – January 2025 |
-| Microsoft Learn Student Ambassador — Web Development | October 2024 |
-| TeckByte 2k25 — Hackathon | March 2025 |
-| Woxsen University — Hackathon | February 2025 |
-| Code Unnati Innovation Marathon — Hackathon | February 2025 |
+- **IBM SkillsBuild — Front-End Web Development** | October 2025
+- **NPTEL — Programming in Python (Elite Certificate)** | June 2025
+- **Deloitte Australia — Job Simulation** | July 2025
+- **Code Unnati (SAP) — Foundational Course** | July 2024 – January 2025
+- **Microsoft Learn Student Ambassador — Web Development** | October 2024
+- **TeckByte 2k25 — Hackathon** | March 2025
+- **Woxsen University — Hackathon** | February 2025
+- **Code Unnati Innovation Marathon — Hackathon** | February 2025
 
 ---
 
-## Currently Working With
+## 🔧 Currently Working With
 
 ```text
 Python        C             JavaScript
