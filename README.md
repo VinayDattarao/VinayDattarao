@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-I am a Computer Science undergraduate at **Sree Dattha Institute of Engineering and Science**, pursuing a Bachelor of Engineering with an expected graduation in **2027** and a current **CGPA of 8.70/10.0**.
+I am a Computer Science undergraduate at **Sree Dattha Institute of Engineering and Science**, pursuing a Bachelor of Engineering with an expected graduation in **2027** and a current **CGPA of 8.63/10.0**.
 
 I enjoy building practical applications that combine programming, problem-solving, databases, and modern web technologies. My experience includes front-end development, full-stack applications, Python-based data processing, SQL, REST APIs, and DevOps tools.
 
@@ -41,7 +41,7 @@ I am also interested in open-source development and have contributed code to the
 **Bachelor of Engineering — Computer Science**  
 Hyderabad, India | 2023 – 2027
 
-- **CGPA:** 8.70/10.0
+- **CGPA:** 8.63/10.0
 - **Relevant Coursework:** Data Structures and Algorithms, Computer Networks, Operating Systems, DevOps
 
 ### Sri Chaitanya Junior College, Hydernagar
